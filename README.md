@@ -14,3 +14,7 @@ Premise:
    * position
    * amplitude
    * barometric presure (for approximate speed of sound adjustments)
+
+
+References:
+  *  https://www.raspberrypi.org/forums/viewtopic.php?t=165996
