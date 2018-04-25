@@ -1,5 +1,7 @@
 # DistributedAcousticEventLocator
 
+Because this is a thing: http://www.fox29.com/news/bucks-county-residents-report-loud-boom-noises-in-middle-of-night
+
 Premise:
 
 * 3 or more raspberry pi devices with microphones
